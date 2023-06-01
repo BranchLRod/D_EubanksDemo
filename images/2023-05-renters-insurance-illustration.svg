@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>illustration-base/mobile-48/literal/illo-hotel</title>
+    <g id="illustration-base/mobile-48/literal/illo-hotel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="bg" fill="#FFFFFF" points="11 8 13 8 13 4 21 4 21 2 27 2 37 8 37 46 11 46"></polygon>
+        <path d="M18,33 L18,37 L15,37 L15,33 L18,33 Z M23,33 L23,37 L20,37 L20,33 L23,33 Z M28,33 L28,37 L25,37 L25,33 L28,33 Z M33,33 L33,37 L30,37 L30,33 L33,33 Z M18,26 L18,30 L15,30 L15,26 L18,26 Z M23,26 L23,30 L20,30 L20,26 L23,26 Z M28,26 L28,30 L25,30 L25,26 L28,26 Z M33,26 L33,30 L30,30 L30,26 L33,26 Z M18,19 L18,23 L15,23 L15,19 L18,19 Z M23,19 L23,23 L20,23 L20,19 L23,19 Z M28,19 L28,23 L25,23 L25,19 L28,19 Z M33,19 L33,23 L30,23 L30,19 L33,19 Z M18,12 L18,16 L15,16 L15,12 L18,12 Z M23,12 L23,16 L20,16 L20,12 L23,12 Z M28,12 L28,16 L25,16 L25,12 L28,12 Z M33,12 L33,16 L30,16 L30,12 L33,12 Z" id="shapes" fill="#006EC8"></path>
+        <path d="M27.276984,1 L38,7.43380962 L38,47 L10,47 L10,7 L12,7 L12,3 L20,3 L20,1 L27.276984,1 Z M26.723,3 L22,3 L22,9 L12,9 L12,45 L19,45 L19,42 L16.5,42 L16.5,40 L31.5,40 L31.5,42 L29,42 L29,45 L36,45 L36,8.566 L26.723,3 Z M27,42 L21,42 L21,45 L27,45 L27,42 Z M20,5 L14,5 L14,7 L20,7 L20,5 Z" id="strokes" fill="#12395B" fill-rule="nonzero"></path>
+    </g>
+</svg>
